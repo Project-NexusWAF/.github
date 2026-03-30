@@ -7,16 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ORG/nexus-core/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/YOUR_ORG/nexus-core/ci.yml?branch=main&style=flat-square&label=build" />
-  </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core/releases">
+  <a href="https://github.com/Project-NexusWAF/nexus-core/releases">
     <img src="https://img.shields.io/github/v/release/YOUR_ORG/nexus-core?style=flat-square&color=blue&label=release" />
   </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core/blob/main/LICENSE">
+  <a href="https://github.com/Project-NexusWAF/nexus-core/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/YOUR_ORG/nexus-core?style=flat-square" />
   </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core">
+  <a href="https://github.com/Project-NexusWAF/nexus-core">
     <img src="https://img.shields.io/github/stars/YOUR_ORG/nexus-core?style=flat-square&color=yellow" />
   </a>
 </p>
