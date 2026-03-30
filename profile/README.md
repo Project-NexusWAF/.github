@@ -10,7 +10,7 @@
   <a href="https://github.com/Project-NexusWAF/nexus-core/releases">
     <img src="https://img.shields.io/github/v/release/Project-NexusWAF/nexus-core?style=flat-square&color=blue&label=release" />
   </a>
-  <a href="https://github.com/Project-NexusWAF/nexus-core/blob/master/LICENSE">
+  <a href="https://github.com/Project-NexusWAF/.github/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/Project-NexusWAF/nexus-core?style=flat-square" />
   </a>
   <a href="https://github.com/Project-NexusWAF/nexus-core">
