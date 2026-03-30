@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Project NexusWAF" src="https://raw.githubusercontent.com/YOUR_ORG/.github/main/assets/nexuswaf-logo-light.svg" width="380">
+  <img alt="Project NexusWAF" src="https://raw.githubusercontent.com/Project-NexusWAF/.github/main/assets/nexuswaf-logo-light.svg" width="380">
 </p>
 
 <p align="center">
@@ -7,17 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_ORG/nexus-core/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/YOUR_ORG/nexus-core/ci.yml?branch=main&style=flat-square&label=build" />
+  <a href="https://github.com/Project-NexusWAF/nexus-core/releases">
+    <img src="https://img.shields.io/github/v/release/Project-NexusWAF/nexus-core?style=flat-square&color=blue&label=release" />
   </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core/releases">
-    <img src="https://img.shields.io/github/v/release/YOUR_ORG/nexus-core?style=flat-square&color=blue&label=release" />
+  <a href="https://github.com/Project-NexusWAF/nexus-core/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Project-NexusWAF/nexus-core?style=flat-square" />
   </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/YOUR_ORG/nexus-core?style=flat-square" />
-  </a>
-  <a href="https://github.com/YOUR_ORG/nexus-core">
-    <img src="https://img.shields.io/github/stars/YOUR_ORG/nexus-core?style=flat-square&color=yellow" />
+  <a href="https://github.com/Project-NexusWAF/nexus-core">
+    <img src="https://img.shields.io/github/stars/Project-NexusWAF/nexus-core?style=flat-square&color=yellow" />
   </a>
 </p>
 
