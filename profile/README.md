@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Project NexusWAF" src="https://raw.githubusercontent.com/Project-NexusWAF/.github/main/assets/nexuswaf-logo-light.svg" width="380">
+  <b>Nexus WAF</b>
 </p>
 
 <p align="center">
@@ -17,16 +17,6 @@
     <img src="https://img.shields.io/github/stars/Project-NexusWAF/nexus-core?style=flat-square&color=yellow" />
   </a>
 </p>
-
-<p align="center">
-  <a href="#architecture">Architecture</a> •
-  <a href="#repositories">Repositories</a> •
-  <a href="#features">Features</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contributing</a>
-</p>
-
----
 
 # About Project NexusWAF
 
